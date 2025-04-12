@@ -8,7 +8,7 @@ export default function Resume() {
 
       {/* Main content */}
       <div className="max-w-3xl mx-auto bg-white text-black rounded-2xl shadow-xl p-10 mt-10">
-        <h1 className="text-4xl font-bold mb-4">Привет! Меня зовут Ержан 👋</h1>
+        <h1 className="text-4xl font-bold mb-4">ПРИВЕТ АЯНА НЕ КОГДА МЕНЯ НЕ ИЗВЕНЯЙ МНЕ НЕ НАДО ТВОИХ ИЗВИНЕНИЙ  👋</h1>
         <p className="text-lg mb-2">🗓 Родился: 13 сентября 2008 года (мне 16 лет)</p>
         <p className="text-lg mb-2">🏫 Учусь в 99 лицее</p>
         <p className="text-lg mb-6">💻 Знаю языки программирования: HTML, CSS, JavaScript, React</p>

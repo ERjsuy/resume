@@ -4,14 +4,7 @@ export default function Resume() {
   return (
     <div className="min-h-screen bg-gradient-to-r from-blue-500 to-purple-600 text-white">
       {/* Header */}
-      <header className="flex items-center justify-between px-10 py-6 bg-white bg-opacity-10 backdrop-blur-md rounded-b-2xl shadow-md">
-        <div className="text-2xl font-bold text-white">EJ</div>
-        <nav className="space-x-6 text-lg">
-          <a href="#about" className="hover:underline">Обо мне</a>
-          <a href="#projects" className="hover:underline">Проекты</a>
-          <a href="#charity" className="hover:underline">Благотворительность</a>
-        </nav>
-      </header>
+      
 
       {/* Main content */}
       <div className="max-w-3xl mx-auto bg-white text-black rounded-2xl shadow-xl p-10 mt-10">
